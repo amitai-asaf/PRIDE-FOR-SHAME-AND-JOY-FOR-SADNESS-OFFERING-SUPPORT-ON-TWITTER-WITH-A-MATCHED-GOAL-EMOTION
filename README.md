@@ -4,9 +4,17 @@ The aim of this research was to test people’s responses to negative emotions e
 to repeat the process the same way i did you need to run the scripts in the following order
 
 1 : tweets (may take long, you can change the ammount of requests you send)
+
 2 : replies (may take long, you can change the ammount of requests you send)
-3 : conver to r
-4 : organize
-5 : cleaning
-6 : prepocessing
-7 : analyse (There are many forms of analysis in this file. All of them support the hypothesis, some of them even to a greater extent than the one we used. The one we used is tagged as #This is the analysis#)
+
+3 : encode
+
+4 : conver to r
+
+5 : organize
+
+6 : cleaning
+
+7 : prepocessing
+
+8 : analyse (There are many forms of analysis in this file. All of them support the hypothesis, some of them even to a greater extent than the one we used. The one we used is tagged as #This is the analysis#)
